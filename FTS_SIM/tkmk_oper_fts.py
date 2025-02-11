@@ -1,3 +1,5 @@
+# Visualization of the operation of a tokamak (magnetic plasma confinement)
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation

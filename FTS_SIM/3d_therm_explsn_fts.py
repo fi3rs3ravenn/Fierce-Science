@@ -1,3 +1,5 @@
+# 3D animation of a thermonuclear explosion
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
