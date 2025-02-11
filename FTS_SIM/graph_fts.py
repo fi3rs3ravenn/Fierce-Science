@@ -1,3 +1,7 @@
+# 1. Fusion temperature vs. Other temperatures
+# 2. Cost and time of implementation of thermonuclear projects
+# 3. Amount of energy from different sources
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd

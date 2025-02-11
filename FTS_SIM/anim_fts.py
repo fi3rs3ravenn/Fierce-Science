@@ -1,3 +1,8 @@
+# Animation of the operation of a fusion reactor using Python and the Matplotlib library (FuncAnimation). 
+# The animation shows how:
+# Hydrogen nuclei (deuterium and tritium) collide, merge and turn into helium.
+# A huge amount of energy is released (in the form of light waves).
+# Magnetic fields hold the plasma in the tokamak.
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
